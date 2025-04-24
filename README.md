@@ -1,5 +1,10 @@
 # capstone
-capstone project bnased on railfence ciper which includes both encryption and decryption
+capstone project based on railfence ciper which includes both encryption and decryption
+
+
+
+
+
 #include <stdio.h>
 #include <string.h>
 
